@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Talal Majeed</h1>
 <h3 align="center">A passionate Web Developer and CS Student from Pakistan</h3>
 
-- 🔭 I’m currently working on <a href="https://github.com/eznxadee/Solidio-AI" target="blank">Solidio AI - Tokenized Invoice Financing</a>
+- 🔭 I’m currently working on <a href="https://github.com/TalalMajeed/Solidio-AI" target="blank">Solidio AI - Tokenized Invoice Financing</a>
 
 - 🌱 I’m currently learning **Web 3.0, Blockchain, Ethereum Smart Contracts**
 
