@@ -69,6 +69,9 @@
   <a href="https://github.com/TalalMajeed/Oracis-AI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TalalMajeed&repo=Oracis-AI&theme=buefy&title_color=0A81D1&icon_color=0A81D1" />
   </a>
+    <a href="https://github.com/TalalMajeed/Solidio-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TalalMajeed&repo=Solidio-AI&theme=buefy&title_color=0A81D1&icon_color=0A81D1" />
+  </a>
 </div>
 
 ## 📊 GitHub Statistics
