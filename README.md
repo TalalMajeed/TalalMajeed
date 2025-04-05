@@ -14,9 +14,12 @@
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Gif" />
 
+- 🎓 **BS Computer Science** from **NUST University**
 - 🚀 **8+ Years** of software development experience
 - 💼 **2 Years** of professional work experience
 - 🔹 **3 Years** freelancing on [Upwork](https://www.upwork.com/freelancers/~0157c5ba50d278cc2a)
+- 🤝 **Collaborator** with **Adix Solutions** ([adixsolutions.io](https://adixsolutions.io)) based in Germany
+- 👨‍💻 **Founder** of the **Codexon Team** at NUST
 - ☁️ Currently focused on **Cloud Engineering & Kubernetes (AWS)**
 - 🔗 Researching **Blockchain & Fintech** solutions through my project [Solidio AI](https://github.com/TalalMajeed/Solidio-AI)
 - 🎓 Computer Science background with passion for cutting-edge technologies
@@ -64,16 +67,16 @@
 
 <div align="center">
   <a href="https://github.com/TalalMajeed/Solidio-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TalalMajeed&repo=Solidio-AI&theme=react&hide_border=true&title_color=0A81D1&icon_color=0A81D1&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TalalMajeed&repo=Solidio-AI&theme=buefy&title_color=0A81D1&icon_color=0A81D1" />
   </a>
 </div>
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TalalMajeed&show_icons=true&count_private=true&hide_border=true&title_color=0A81D1&icon_color=0A81D1&text_color=c9d1d9&bg_color=0d1117" alt="Talal Majeed's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalalMajeed&theme=dark&background=0d1117&ring=0A81D1&fire=0A81D1&currStreakLabel=0A81D1&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalalMajeed&layout=compact&title_color=0A81D1&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TalalMajeed&show_icons=true&count_private=true&theme=default&title_color=0A81D1&icon_color=0A81D1&ring_color=0A81D1" alt="Talal Majeed's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalalMajeed&theme=default&ring=0A81D1&fire=0A81D1&currStreakLabel=0A81D1" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalalMajeed&layout=compact&theme=default&title_color=0A81D1" alt="Most Used Languages" />
 </div>
 
 ## 📫 Connect With Me
