@@ -10,7 +10,7 @@
 
 ## 🌊 About Me
 
-> **Chief Technology Officer** at **MAT Software**, driving innovation through cloud-native solutions and blockchain research.
+> **Head of Technology** at **Codexon Solutions**, driving innovation through cloud-native solutions and blockchain research.
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Gif" />
 
