@@ -1,10 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38d196&height=200&section=header&text=Muhammad%20Talal%20Majeed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Tech%20Lead%20at%20Codexon%20|%20Cloud%20Engineer%20|%20Blockchain%20Developer&descAlignY=50&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=b7ffee&height=200&section=header&text=Muhammad%20Talal%20Majeed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Tech%20Lead%20at%20Codexon%20|%20Cloud%20Engineer%20|%20Blockchain%20Developer&descAlignY=50&descAlign=50" />
 </div>
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38d196&center=true&vCenter=true&random=false&width=600&lines=8%2B+Years+of+Coding+Experience;AWS+Cloud+Engineering+%26+Kubernetes;Blockchain+%26+Fintech+Research;Full-Stack+Web+Development)
+<picture>
+  <source 
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=8%2B+Years+of+Coding+Experience;AWS+Cloud+Engineering+%26+Kubernetes;Blockchain+%26+Fintech+Research;Full-Stack+Web+Development" 
+    media="(prefers-color-scheme: dark)" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=600&lines=8%2B+Years+of+Coding+Experience;AWS+Cloud+Engineering+%26+Kubernetes;Blockchain+%26+Fintech+Research;Full-Stack+Web+Development" 
+    alt="Typing SVG" />
+</picture>
+
 
 </div>
 
@@ -67,19 +75,19 @@
 
 <div align="center">
   <a href="https://github.com/TalalMajeed/NeuroFlow-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TalalMajeed&repo=NeuroFlow-AI&theme=buefy&title_color=38d196&icon_color=38d196" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TalalMajeed&repo=NeuroFlow-AI&theme=buefy&title_color=20b27a&icon_color=20b27a" />
   </a>
   <a href="https://github.com/TalalMajeed/Oracis-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TalalMajeed&repo=Oracis-AI&theme=buefy&title_color=38d196&icon_color=38d196" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TalalMajeed&repo=Oracis-AI&theme=buefy&title_color=20b27a&icon_color=20b27a" />
   </a>
 </div>
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TalalMajeed&show_icons=true&count_private=true&theme=default&title_color=38d196&icon_color=38d196&ring_color=38d196" alt="Talal Majeed's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalalMajeed&theme=default&ring=38d196&fire=38d196&currStreakLabel=38d196" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalalMajeed&layout=compact&theme=default&title_color=38d196" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TalalMajeed&show_icons=true&count_private=true&theme=default&title_color=20b27a&icon_color=20b27a&ring_color=20b27a" alt="Talal Majeed's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalalMajeed&theme=default&ring=20b27a&fire=20b27a&currStreakLabel=20b27a" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalalMajeed&layout=compact&theme=default&title_color=20b27a" alt="Most Used Languages" />
 </div>
 
 ## 📫 Connect With Me
@@ -97,5 +105,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38d196&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=b7ffee&height=120&section=footer" />
 </div>
