@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=b7ffee&height=200&section=header&text=Muhammad%20Talal%20Majeed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Tech%20Lead%20at%20Codexon%20|%20Cloud%20Engineer%20|%20Blockchain%20Developer&descAlignY=50&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=01d1a1&height=200&section=header&text=Muhammad%20Talal%20Majeed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Tech%20Lead%20at%20Codexon%20|%20Cloud%20Engineer%20|%20Blockchain%20Developer&descAlignY=50&descAlign=50" />
 </div>
 
 <div align="center">
